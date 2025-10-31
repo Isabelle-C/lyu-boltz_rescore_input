@@ -1,0 +1,1 @@
+for i in /lustre/fs6/lyu_lab/scratch/ichen/data/af3_eval/15_dudez_af3/af_remaining_1002/*; do sbatch "$i/launch.sbatch"; done
